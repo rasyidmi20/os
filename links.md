@@ -6,14 +6,22 @@ permalink: /LINKS/
 
 # LINKS
 
+# W01
 1. [Scele Fasilkom UI](https://scele.cs.ui.ac.id/)<br>
-   Student Centered E-Learning Environment Fasilkom UI
+   Student Centered E-Learning Environment Fasilkom UI. Fasilkom students certainly using it right?
 
 2. [Linux Journey](https://linuxjourney.com/)<br>
    Learn the ways of Linux-fu, for free.
 
 3. [Operating Systems](https://os.vlsm.org/)<br>
-   This is the CSCM-602055 Operating System course site, a GitHub Page, hosted at GitHub.com (thank you!). It is managed by VauLSMorg (vlsm.org) since 2018. This site contains links to lecture materials, exam questions, and laboratory materials. It is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody (GHGTT4A2)”.
+   Operating System's main site. I use this as a reference for my weekly tasks.
    
 4. [Stack Overflow](https://stackoverflow.com/)<br>
    Programmers community to share ideas and problems.
+   
+# W02
+5. [Cyber Security Introduction Part 1](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+   My references to learn about cyber security for my operating system's course.
+
+6. [Cyber Security Introduction Part 2](https://www.youtube.com/watch?v=CivG_2UqKMg)<br>
+   My additional reference to learn cyber security.
