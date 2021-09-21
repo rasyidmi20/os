@@ -25,3 +25,7 @@ permalink: /LINKS/
 
 6. [Cyber Security Introduction Part 2](https://www.youtube.com/watch?v=CivG_2UqKMg)<br>
    My additional reference to learn cyber security.
+
+# W03
+7. [Linux File System 101](https://opensource.com/article/18/4/ext4-filesystem)<br>
+   This website explains about linux filesystems:ext4 and beyond. In my opiniaon this topic is really interested to lear   n because indirectly we learn about histroy of computer programming.

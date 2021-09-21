@@ -27,4 +27,19 @@ ZCZC W02  20 L19 Assignment #09
 ZCZC W02  20 L20 Assignment #10
 ZCZC W02  20 L22 Quiz
 ZCZC W02 100 L01 SCELE/Discord related
-ZCZC W02  60 L32 Youtube: Study from other references
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03 100 L11 Assignment #01
+ZCZC W03  10 L12 Assignment #02
+ZCZC W03  90 L13 Assignment #03
+ZCZC W03  10 L14 Assignment #04
+ZCZC W03 100 L15 Assignment #05
+ZCZC W03  10 L16 Assignment #06
+ZCZC W03  30 L17 Assignment #07
+ZCZC W03  20 L17 Assignment #08
+ZCZC W03  10 L19 Assignment #09
+ZCZC W03  20 L08 Asking AsDos about assignment
+ZCZC W03  50 L64 Helping my peer solving her OS problem
+ZCZC W03 100 L32 Studying from Youtube
+ZCZC W03  20 L05 Quiz
+ZCZC W03  80 Linux
+ZCZC W03  50 SCELE related
