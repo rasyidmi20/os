@@ -29,3 +29,7 @@ permalink: /LINKS/
 # W03
 7. [Linux File System 101](https://opensource.com/article/18/4/ext4-filesystem)<br>
    This website explains about linux filesystems:ext4 and beyond. In my opiniaon this topic is really interested to lear   n because indirectly we learn about histroy of computer programming.
+
+# W04
+8. [Pointers in C Programming with examples](https://beginnersbook.com/2014/01/c-pointers/)
+   This website helps me to learn about addressing and pointers in C language. It contains the picture doing pointing an   d addressing. It also gives the code example and output.

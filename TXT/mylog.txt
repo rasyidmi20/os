@@ -41,5 +41,20 @@ ZCZC W03  20 L08 Asking AsDos about assignment
 ZCZC W03  50 L64 Helping my peer solving her OS problem
 ZCZC W03 100 L32 Studying from Youtube
 ZCZC W03  20 L05 Quiz
-ZCZC W03  80 Linux
-ZCZC W03  50 SCELE related
+ZCZC W03  80 L23 Linux
+ZCZC W03  50 L01 SCELE related
+ZCZC W04  20 L22 Quiz
+ZCZC W04 100 L02 ZOOM meeting related
+ZCZC W04 120 L01 SCELE/Discord related
+ZCZC W04  60 L11 Assignment #01
+ZCZC W04  60 L12 Assignment #02
+ZCZC W04 120 L13 Assignment #03
+ZCZC W04  20 L14 Assignment #04
+ZCZC W04  50 L15 Assignment #05
+ZCZC W04  50 L16 Assignment #06
+ZCZC W04  20 L17 Assignment #07
+ZCZC W04  30 L18 Assignment #08
+ZCZC W04  10 L19 Assignment #09
+ZCZC W04  50 L26 C-Language
+ZCZC W05  45 L32 Youtube: study..
+ZCZC W05  20 L08 AsDos: asking, etc
