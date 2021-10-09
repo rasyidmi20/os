@@ -33,3 +33,7 @@ permalink: /LINKS/
 # W04
 8. [Pointers in C Programming with examples](https://beginnersbook.com/2014/01/c-pointers/)
    This website helps me to learn about addressing and pointers in C language. It contains the picture doing pointing an   d addressing. It also gives the code example and output.
+
+# W05
+9. [What is Virtual Memory?](https://searchstorage.techtarget.com/definition/virtual-memory)
+   This website explains a lot about virtual memory in general. They describe virtual memory as a memory management technique where secondary memory can be used as if it were a part of the main memory. Virtual memory also uses both hardware and software to enable a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage.
