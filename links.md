@@ -41,3 +41,7 @@ permalink: /LINKS/
 # W06
 10. [A Quick Introduction to Processes in Computer Science](https://medium.com/@imdadahad/a-quick-introduction-to-processes-in-computer-science-271f01c780da)<br>
     This article explains about processes in term of Computer Science (Operating System). It tells that process is simply a program in execution. We can check for processes happen in our operating system. In windows for example, we can open Task Manager and move to Processes tab to see this information. This article also tells about how operating system manage processes and how operating swtich between differenct processes. It's worth the time!
+
+# W07
+11. [Shared Memory Model of Process Communication](https://www.tutorialspoint.com/shared-memory-model-of-process-communication)<br>
+    In this website I learn that model shared memory is one of communication process models that provided by operation system. Communication had been done between the processes is there is a process that tell the other process that there are a lot of things happen or there is transfering data process between one process to the other.

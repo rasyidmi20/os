@@ -87,3 +87,18 @@ ZCZC W06 100 L32 Youtube study
 ZCZC W06  20 L08 Ask AsDos about assignment
 ZCZC W06  30 L23 Linux CLI: tar
 ZCZC W06  15 L64 Helping OS related problem to a friend
+ZCZC W07  20 L22 Quiz
+ZCZC W07 100 L02 Zoom Meetings related
+ZCZC W07 100 L01 SCELE/Discord related
+ZCZC W07  90 L11 Assignment #01
+ZCZC W07  90 L12 Assignment #02
+ZCZC W07 120 L13 Assignment #03
+ZCZC W07  90 L14 Assignment #04
+ZCZC W07  10 L15 Assignment #05
+ZCZC W07  10 L17 Assignment #07
+ZCZC W07  20 L18 Assignment #08
+ZCZC W07  05 L19 Assignment #09
+ZCZC W07  90 L32 Youtube study
+ZCZC W07  20 L08 Ask AsDos about assignment
+ZCZC W07  15 L64 Helping OS related problem to a friend
+ZCZC W07  20 L08 Ask AsDos about assignment
