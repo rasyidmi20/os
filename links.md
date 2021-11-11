@@ -45,3 +45,7 @@ permalink: /LINKS/
 # W07
 11. [Shared Memory Model of Process Communication](https://www.tutorialspoint.com/shared-memory-model-of-process-communication)<br>
     In this website I learn that model shared memory is one of communication process models that provided by operation system. Communication had been done between the processes is there is a process that tell the other process that there are a lot of things happen or there is transfering data process between one process to the other.
+
+#W08
+12. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+    This article explains a lot with a good explanation about the differences between process and thread. Process means any program is in execution, while thread is the segment of a process. It means that a process can have multiple threadsand these multiple threads are contained within a process. This article also provides table so we can easily understand the content.
