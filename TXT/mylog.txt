@@ -116,3 +116,17 @@ ZCZC W08  05 L19 Assignment #09
 ZCZC W08  90 L32 Youtube study
 ZCZC W08  15 L64 Helping OS related problem to a friend
 ZCZC W08  20 L08 Ask AsDos about assignment
+ZCZC W09  20 L22 Quiz
+ZCZC W09 100 L02 Zoom Meetings related
+ZCZC W09 100 L01 SCELE/Discord related
+ZCZC W09  15 L11 Assignment #01
+ZCZC W09  45 L12 Assignment #02
+ZCZC W09  60 L13 Assignment #03
+ZCZC W09 300 L14 Assignment #04
+ZCZC W09  05 L15 Assignment #05
+ZCZC W09  10 L17 Assignment #07
+ZCZC W09  10 L18 Assignment #08
+ZCZC W09  05 L19 Assignment #09
+ZCZC W09  60 L32 Youtube study
+ZCZC W09  60 L64 Helping OS related problem to a friend
+
